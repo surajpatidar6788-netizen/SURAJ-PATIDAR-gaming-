@@ -1,0 +1,6 @@
+{
+  "name": "TV Connect GamePad",
+  "description": "Guided smartphone-to-TV setup and low-latency wireless gaming controller with bilingual Hindi & English support and an interactive AI Teacher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
